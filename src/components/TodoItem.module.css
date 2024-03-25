@@ -1,0 +1,21 @@
+.list_item_success{
+    background-color: rgb(240, 240, 244);
+   
+}
+.box{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 400px;
+    
+}
+.list_item{
+  max-width: 400px;
+   margin: 0 auto;
+}
+.input_box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
